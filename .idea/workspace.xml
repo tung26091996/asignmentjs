@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6528d650-d1fd-4f4e-b3a3-852b21be00fa" name="Default Changelist" comment="" />
+    <list default="true" id="6528d650-d1fd-4f4e-b3a3-852b21be00fa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/1.php" beforeDir="false" afterPath="$PROJECT_DIR$/1.php" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -82,7 +84,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page/list-song.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
@@ -117,11 +119,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1.php">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="60" selection-start-column="60" selection-end-column="60" />
+              <caret column="50" lean-forward="true" selection-start-column="50" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -173,6 +175,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -187,7 +192,6 @@
         <option value="$PROJECT_DIR$/css/style3.css" />
         <option value="$PROJECT_DIR$/page/createSong.html" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/1.php" />
         <option value="$PROJECT_DIR$/js/list-song.js" />
         <option value="$PROJECT_DIR$/css/style2.css" />
         <option value="$PROJECT_DIR$/css/style1.css" />
@@ -197,6 +201,7 @@
         <option value="$PROJECT_DIR$/page/login.html" />
         <option value="$PROJECT_DIR$/page/register-api.html" />
         <option value="$PROJECT_DIR$/page/list-song.html" />
+        <option value="$PROJECT_DIR$/1.php" />
       </list>
     </option>
   </component>
@@ -212,6 +217,7 @@
     <option name="width" value="1126" />
     <option name="height" value="477" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -316,12 +322,12 @@
       <workItem from="1544439497100" duration="2286000" />
       <workItem from="1544443356470" duration="1464000" />
       <workItem from="1544445095798" duration="1852000" />
-      <workItem from="1544454678660" duration="5139000" />
+      <workItem from="1544454678660" duration="5728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73321000" />
+    <option name="totallyTimeSpent" value="73910000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -423,13 +429,6 @@
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="60" selection-start-column="60" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/list-song.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -498,6 +497,13 @@
             <element signature="n#style#0;n#img#0;n#div#1;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#2;n#div#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="50" lean-forward="true" selection-start-column="50" selection-end-column="50" />
         </state>
       </provider>
     </entry>
